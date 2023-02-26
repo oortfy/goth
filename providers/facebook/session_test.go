@@ -3,8 +3,8 @@ package facebook_test
 import (
 	"testing"
 
-	"github.com/nik0811/goth"
-	"github.com/nik0811/goth/providers/facebook"
+	"github.com/oortfy/goth"
+	"github.com/oortfy/goth/providers/facebook"
 	"github.com/stretchr/testify/assert"
 )
 

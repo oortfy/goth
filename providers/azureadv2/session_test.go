@@ -3,8 +3,8 @@ package azureadv2_test
 import (
 	"testing"
 
-	"github.com/nik0811/goth"
-	"github.com/nik0811/goth/providers/azureadv2"
+	"github.com/oortfy/goth"
+	"github.com/oortfy/goth/providers/azureadv2"
 	"github.com/stretchr/testify/assert"
 )
 

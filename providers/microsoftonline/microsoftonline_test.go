@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/nik0811/goth"
-	"github.com/nik0811/goth/providers/microsoftonline"
+	"github.com/oortfy/goth"
+	"github.com/oortfy/goth/providers/microsoftonline"
 	"github.com/stretchr/testify/assert"
 )
 

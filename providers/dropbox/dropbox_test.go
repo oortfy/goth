@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/nik0811/goth"
+	"github.com/oortfy/goth"
 	"github.com/stretchr/testify/assert"
 )
 
